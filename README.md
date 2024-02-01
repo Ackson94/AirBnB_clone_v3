@@ -213,7 +213,7 @@ github repo
 ## Authors :black_nib:
 
 
-* __Ackson Mutuma__ - <[ackson](https://github.com/Ackson94/) | <[@ackson](https://twitter.com/AcksonMutuma)>
+* __Ackson Mutuma__ - <[ackson](https://github.com/Ackson94/) / <[@ackson](https://twitter.com/AcksonMutuma)>
 
 ## License
 
